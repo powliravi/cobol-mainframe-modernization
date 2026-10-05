@@ -1,0 +1,9 @@
+{
+  "eventId": "evt-20261005-000184",
+  "accountId": "0000123456",
+  "adjustmentType": "CREDIT",
+  "amount": "125.75",
+  "currency": "USD",
+  "requestedAt": "2026-10-05T09:30:00Z",
+  "source": "ONLINE-SERVICE"
+}
